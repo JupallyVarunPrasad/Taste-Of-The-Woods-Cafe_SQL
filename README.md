@@ -1,6 +1,6 @@
 # Taste-Of-The-Woods-Cafe_SQL
 
-The project usually presents a scenario where a restaurant owner wants to gain insights from their sales and order data to make data-driven decisions.
+The project presents a scenario where the cafe owner wants to gain insights from their sales and order data to make data-driven decisions.
 
 **Key Objectives :-**
 
